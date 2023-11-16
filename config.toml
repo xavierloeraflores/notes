@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://xavierloeraflores.github.io/notes/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Notes'
 theme ="PaperMod"
