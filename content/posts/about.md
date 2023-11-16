@@ -1,7 +1,10 @@
-# Notes Site 
-
-## About
-Simple collection of notes written in Markdown and built with Hugo. 
+---
+title: "About"
+date: 2023-11-16T04:06:52-08:00
+draft: false
+---
+## Notes Site
+Simple collection of notes written in Markdown and built with Hugo.
 
 - Visit the live deployment here: 
 [Notes Site](https://xavierloeraflores.github.io/notes/)
