@@ -1,7 +1,7 @@
 ---
 title: "Discrete Math Symbols"
 date: 2023-11-20T08:22:25-08:00
-draft: true
+draft: false
 ---
 ### Discrete Math Symbols:
 | Symbol | Meaning | Usage | Example | Reads as |
