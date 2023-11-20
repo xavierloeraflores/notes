@@ -1,10 +1,9 @@
 ---
 title: "Prime & Composite Numbers"
 date: 2023-11-20T08:54:34-08:00
-draft: true
+draft: false
 ---
 
-## Prime & Composite Numbers
 #### Prime & Composite Relationship:
 If `p ∈ Z+` and `p > 1`, then `p` is either **prime** or **composite**. 
 
