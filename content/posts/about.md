@@ -24,7 +24,7 @@ Simple collection of notes written in Markdown and built with Hugo.
 - [Git](https://git-scm.com/downloads)
 
 ### Quick Start
-Clone the repo ```git clone git@github.com:xavierloeraflores/notes.git``` and cd into the project directory:
+Clone the repo & submodules```git clone --recurse-submodules git@github.com:xavierloeraflores/notes.git``` and cd into the project directory:
 
 Run ```hugo server -D``` to start the local server.
 
