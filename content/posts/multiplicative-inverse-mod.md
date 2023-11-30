@@ -4,7 +4,10 @@ date: 2023-11-29T18:45:42-08:00
 draft: false
 ---
 
-## Steps:
+Multiplicative Inverse Modulo
+: The multiplicative inverse of `x mod y` is a number `n ∈ Z+` such that `x * n mod y = 1`
+
+## Finding the Multiplicative Inverse Modulo:
 
 Given `x` & `y`, to find the multiplicative inverse, `n` of `x mod y` you must find:
 `x * n mod y = 1`
