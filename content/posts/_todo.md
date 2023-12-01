@@ -24,3 +24,6 @@ Dynamic Programming
 
 Memoization in Dynamic Programming
 : [Video](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+
+Database Normalization
+: [Video](https://www.youtube.com/watch?v=GFQaEYEc8_8)
