@@ -62,6 +62,8 @@ Descriptive method means anything that describes the data. Histograms, scatterpl
 
 Descriptive and nondescriptive methods do not need to be explicitly identified in Task 2. The visualizations and requirements of the user application will satisfy these parts, respectively. The distinction is only made in the approval form to easily identify where and how ML will be applied.
 
+---
+
 # FAQS
 
 #### Do I need to make an appointment to get approval?
