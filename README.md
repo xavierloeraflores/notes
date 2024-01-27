@@ -14,6 +14,11 @@ Simple collection of notes written in Markdown and built with Hugo.
 - [Github Actions](https://github.com/features/actions)
 - [Github Pages](https://pages.github.com/)
 
+### Submodules:
+- [Post Entries](https://github.com/xavierloeraflores/markdown-entries)
+- [Post Attachments](https://github.com/xavierloeraflores/markdown-attachments)
+- [PaperMod Theme](https://github.com/xavierloeraflores/PaperMod)
+
 ## Getting started
 
 ### Prerequisites
