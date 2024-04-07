@@ -33,7 +33,7 @@ params:
   ShowBreadCrumbs: false #this add a path directory  nav to the post page
   ShowCodeCopyButtons: true
   ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
+  ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: true
