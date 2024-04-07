@@ -30,7 +30,7 @@ params:
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: false #this add a path directory  nav to the post page 
+  ShowBreadCrumbs: false #this add a path directory  nav to the post page
   ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
@@ -128,10 +128,10 @@ menu:
     #   name: categories
     #   url: /categories/
     #   weight: 10
-    # - identifier: tags
-    #   name: tags
-    #   url: /tags/
-    #   weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
     # - identifier: Portfolio
     #   name: Personal Site
     #   url: https://loeraflores.tech
