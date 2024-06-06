@@ -79,7 +79,7 @@ params:
 
   socialIcons:
     - name: portfolio
-      url: "https://loeraflores.tech"
+      url: "https://loeraflores.com"
     - name: github
       url: "https://github.com/xavierloeraflores"
     - name: twitter
@@ -134,7 +134,7 @@ menu:
       weight: 20
     # - identifier: Portfolio
     #   name: Personal Site
-    #   url: https://loeraflores.tech
+    #   url: https://loeraflores.com
     #   weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
