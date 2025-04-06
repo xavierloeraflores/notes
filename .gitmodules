@@ -5,6 +5,3 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = git@github.com:xavierloeraflores/PaperMod.git
-[submodule "static/attachments"]
-	path = static/attachments
-	url = git@github.com:xavierloeraflores/markdown-attachments.git
