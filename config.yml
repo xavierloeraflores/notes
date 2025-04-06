@@ -157,6 +157,12 @@ module:
   mounts:
     - source: content/posts/static
       target: static/static
+      # For the text posts
     - excludeFiles: posts/static/*
+      includeFiles: posts/*
+      source: content/posts
+      target: content
+      # For the Search Bar
+    - excludeFiles: ["posts/static/*", "posts/posts/*"]
       source: content
       target: content
