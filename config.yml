@@ -152,3 +152,11 @@ outputs:
     - HTML
     - RSS
     - JSON # is necessary
+
+module:
+  mounts:
+    - source: content/posts/static
+      target: static/static
+    - excludeFiles: posts/static/*
+      source: content
+      target: content
